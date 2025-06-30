@@ -36,7 +36,7 @@ Actively building personal projects and solving DSA problems to strengthen my fu
 - 📧 Email: [amoghvarsha7246@gmail.com](mailto:amoghvarsha7246@gmail.com)  
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/amoghavarsha-s-1626782b0/))  
 - 💻 [GitHub]([https://github.com/your-username](https://github.com/Amogha04))  
-- 📱 Phone: +91-9591075259 *(optional to show)*
+- 📱 Phone: +91-9591075259 
 
 ---
 
